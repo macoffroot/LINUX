@@ -1,0 +1,2 @@
+Verificar portas abertas:
+ # netstart -nlpt
